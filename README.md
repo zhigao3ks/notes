@@ -18,12 +18,14 @@
 - [从多入口免登到统一身份：从属应用接入 CAS 的设计实践](projects/subordinate-app-cas-unified-auth.md)
 - [两个长期分叉仓库如何安全同步：以测试仓与生产仓联调为例](projects/dual-repository-sync-with-environment-isolation.md)
 - [断线不等于结束：实时会议录音的可恢复会话设计](projects/recoverable-realtime-recording-session.md)
+- [从“录音正常”到证据链完整：移动会议录音的可观测性改造](projects/observable-mobile-recording-pipeline.md)
 - [从岗位 JD 到可追溯 PDF：ResumeTailor Agent 的可控工作流设计](projects/resume-tailor-agent-controlled-workflow.md)
 
 ### 问题复盘
 
 - [应用已经启动，却被发布脚本自动回滚：一次过期健康检查的排查复盘](problems/stale-health-check-causes-false-rollback.md)
 - [匹配不少，为什么最终简历仍然是空的：一次多节点生成链路复盘](problems/resume-matches-but-generated-document-empty.md)
+- [最后音频停了两小时，会议为什么还在进行中：一次僵尸录音会议复盘](problems/meeting-stuck-recording-after-recovery-expiry.md)
 
 ### 知识与方案
 
@@ -33,6 +35,7 @@
 - [不要把临时 OSS 地址直接交给前端：录音安全中转与签名链接设计](knowledge/secure-recording-proxy-and-signed-links.md)
 - [内嵌 H5 为什么拿不到麦克风：Cordova 权限桥接与能力探测](knowledge/hybrid-app-microphone-permission-bridge.md)
 - [长会议 H5 如何避免越用越卡：有界状态、音频自愈与大文件下载](knowledge/long-running-h5-memory-and-download-optimization.md)
+- [结束按钮不是最后一步：移动 H5 录音分片持久化与后台续传](knowledge/durable-h5-audio-chunk-upload.md)
 - [把大模型生成限制在事实边界内：Evidence 驱动的内容生成与校验](knowledge/evidence-grounded-resume-generation.md)
 - [结构化大模型调用如何可靠落地：Provider、宽松边界与确定性降级](knowledge/reliable-structured-llm-calls.md)
 
