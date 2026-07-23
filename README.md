@@ -26,6 +26,7 @@
 - [应用已经启动，却被发布脚本自动回滚：一次过期健康检查的排查复盘](problems/stale-health-check-causes-false-rollback.md)
 - [匹配不少，为什么最终简历仍然是空的：一次多节点生成链路复盘](problems/resume-matches-but-generated-document-empty.md)
 - [最后音频停了两小时，会议为什么还在进行中：一次僵尸录音会议复盘](problems/meeting-stuck-recording-after-recovery-expiry.md)
+- [1000 / Bye 明明是正常关闭，为什么却被记成录音失败](problems/normal-websocket-close-misclassified-during-recovery.md)
 
 ### 知识与方案
 
@@ -38,6 +39,9 @@
 - [结束按钮不是最后一步：移动 H5 录音分片持久化与后台续传](knowledge/durable-h5-audio-chunk-upload.md)
 - [把大模型生成限制在事实边界内：Evidence 驱动的内容生成与校验](knowledge/evidence-grounded-resume-generation.md)
 - [结构化大模型调用如何可靠落地：Provider、宽松边界与确定性降级](knowledge/reliable-structured-llm-calls.md)
+- [页面没有线程锁，为什么仍会发生竞态：用 Generation Fencing 管理浏览器实时生命周期](knowledge/generation-fencing-for-browser-realtime-lifecycles.md)
+- [同一句话为什么出现两遍：实时转写与最终转写的时间线对齐](knowledge/reconciling-realtime-and-final-transcripts-by-timeline.md)
+- [短会议不是不能生成纪要：如何同时控制幻觉与业务副作用](knowledge/grounding-short-meeting-minutes-and-side-effects.md)
 
 ### 日常记录
 
