@@ -24,6 +24,7 @@
 ### 问题复盘
 
 - [应用已经启动，却被发布脚本自动回滚：一次过期健康检查的排查复盘](problems/stale-health-check-causes-false-rollback.md)
+- [单测和打包都通过，Spring 为什么还在启动时寻找无参构造器](problems/spring-multiple-constructors-startup-failure.md)
 - [匹配不少，为什么最终简历仍然是空的：一次多节点生成链路复盘](problems/resume-matches-but-generated-document-empty.md)
 - [最后音频停了两小时，会议为什么还在进行中：一次僵尸录音会议复盘](problems/meeting-stuck-recording-after-recovery-expiry.md)
 - [1000 / Bye 明明是正常关闭，为什么却被记成录音失败](problems/normal-websocket-close-misclassified-during-recovery.md)
