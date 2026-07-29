@@ -7,6 +7,7 @@
 ### 项目实践
 
 - [从五个小工具到可扩展平台：Astro + Preact 构建本地优先工具箱](projects/building-local-first-astro-tool-platform.md)
+- [从工具列表到工具平台：ZGLab Tools 规模化扩展中的架构演进](projects/zglab-tools-from-tool-list-to-platform-architecture.md)
 - [从 JSON.parse 到 Web Worker：实现一个不会吞掉错误上下文的 JSON 格式化器](projects/zglab-tools-json-formatter-implementation.md)
 - [秒、毫秒与时区之间：用 Intl 实现可靠的时间戳转换器](projects/zglab-tools-timestamp-converter-implementation.md)
 - [Emoji 到底算几个字符：实现 Unicode 感知的文本统计器](projects/zglab-tools-text-counter-implementation.md)
@@ -31,6 +32,7 @@
 
 ### 知识与方案
 
+- [共享组件不是万能组件：工具平台中的受控复用设计](knowledge/controlled-component-reuse-in-tool-platforms.md)
 - [浏览器本地处理不等于天然安全：工具网站的数据与隐私边界](knowledge/browser-local-processing-privacy-boundaries.md)
 - [用 Astro Content Collections、YAML 与 Zod 构建配置驱动网站](knowledge/astro-content-collections-config-driven-content.md)
 - [静态网站也需要工程化：备份发布、功能开关与动态接口边界](knowledge/static-site-release-and-runtime-boundaries.md)
