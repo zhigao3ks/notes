@@ -2,7 +2,7 @@
 title: "结束按钮不是最后一步：移动 H5 录音分片持久化与后台续传"
 date: 2026-07-20
 updated: 2026-07-20
-status: draft
+status: published
 category: knowledge
 tags:
   - Mobile H5

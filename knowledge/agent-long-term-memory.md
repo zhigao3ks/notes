@@ -2,7 +2,7 @@
 title: "Agent 长期记忆是如何实现的：从 Context Window 到真正可用的 Memory System"
 date: 2026-07-24
 updated: 2026-07-24
-status: draft
+status: published
 category: knowledge
 tags:
   - AI-Agent
