@@ -2,7 +2,7 @@
 title: "最后音频停了两小时，会议为什么还在进行中：一次僵尸录音会议复盘"
 date: 2026-07-20
 updated: 2026-07-20
-status: draft
+status: published
 category: problems
 tags:
   - WebSocket

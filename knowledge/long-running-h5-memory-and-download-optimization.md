@@ -2,7 +2,7 @@
 title: "长会议 H5 如何避免越用越卡：有界状态、音频自愈与大文件下载"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: knowledge
 tags:
   - Mobile H5

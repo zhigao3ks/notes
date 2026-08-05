@@ -2,7 +2,7 @@
 title: "页面没有线程锁，为什么仍会发生竞态：用 Generation Fencing 管理浏览器实时生命周期"
 date: 2026-07-23
 updated: 2026-07-23
-status: draft
+status: published
 category: knowledge
 tags:
   - JavaScript

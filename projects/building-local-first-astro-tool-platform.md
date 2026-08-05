@@ -2,7 +2,7 @@
 title: "从五个小工具到可扩展平台：Astro + Preact 构建本地优先工具箱"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: projects
 tags:
   - Astro

@@ -2,7 +2,7 @@
 title: "不靠免密 sudo 的静态站发布：目录授权、严格健康检查与重复覆盖"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: projects
 tags:
   - Static Deployment

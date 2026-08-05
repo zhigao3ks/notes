@@ -2,7 +2,7 @@
 title: "从工具列表到工具平台：ZGLab Tools 规模化扩展中的架构演进"
 date: 2026-07-29
 updated: 2026-07-29
-status: draft
+status: published
 category: projects
 tags:
   - Astro

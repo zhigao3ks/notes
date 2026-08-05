@@ -46,9 +46,7 @@
 - [同一句话为什么出现两遍：实时转写与最终转写的时间线对齐](knowledge/reconciling-realtime-and-final-transcripts-by-timeline.md)
 - [短会议不是不能生成纪要：如何同时控制幻觉与业务副作用](knowledge/grounding-short-meeting-minutes-and-side-effects.md)
 
-### 日常记录
 
-- [2026-07-16 AIMEETING 项目日报](daily/2026-07-16.md)
 
 ## 目录说明
 

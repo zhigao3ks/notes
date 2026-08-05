@@ -2,7 +2,7 @@
 title: "AI Agent 的沙箱机制：模型为什么能执行命令，却不能随意控制你的电脑"
 date: 2026-07-24
 updated: 2026-07-24
-status: draft
+status: published
 category: knowledge
 tags:
   - AI-Agent

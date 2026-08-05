@@ -2,7 +2,7 @@
 title: "1000 / Bye 明明是正常关闭，为什么却被记成录音失败"
 date: 2026-07-23
 updated: 2026-07-23
-status: draft
+status: published
 category: problems
 tags:
   - WebSocket

@@ -2,7 +2,7 @@
 title: "结构化大模型调用如何可靠落地：Provider、宽松边界与确定性降级"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: knowledge
 tags:
   - LLM Provider

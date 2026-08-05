@@ -2,7 +2,7 @@
 title: "从“录音正常”到证据链完整：移动会议录音的可观测性改造"
 date: 2026-07-20
 updated: 2026-07-20
-status: draft
+status: published
 category: projects
 tags:
   - Observability

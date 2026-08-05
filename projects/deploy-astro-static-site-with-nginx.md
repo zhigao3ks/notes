@@ -2,7 +2,7 @@
 title: "从构建到上线：Ubuntu 24.04 + Nginx 部署 Astro 静态网站"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: projects
 tags:
   - Astro

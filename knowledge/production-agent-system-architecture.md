@@ -2,7 +2,7 @@
 title: "一个成熟的 Agent 系统应该具备什么：从 LLM + Tool 到生产级智能体架构"
 date: 2026-07-24
 updated: 2026-07-24
-status: draft
+status: published
 category: knowledge
 tags:
   - AI-Agent

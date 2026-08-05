@@ -2,7 +2,7 @@
 title: "内嵌 H5 为什么拿不到麦克风：Cordova 权限桥接与能力探测"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: knowledge
 tags:
   - Cordova

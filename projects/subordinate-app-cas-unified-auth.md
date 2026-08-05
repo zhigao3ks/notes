@@ -2,7 +2,7 @@
 title: "从多入口免登到统一身份：从属应用接入 CAS 的设计实践"
 date: 2026-07-16
 updated: 2026-07-16
-status: draft
+status: published
 category: projects
 tags:
   - CAS

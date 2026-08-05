@@ -2,7 +2,7 @@
 title: "不上传内容也能生成二维码：从 Payload 封装到 PNG、SVG 下载"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: projects
 tags:
   - QR Code

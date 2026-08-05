@@ -2,7 +2,7 @@
 title: "应用已经启动，却被发布脚本自动回滚：一次过期健康检查的排查复盘"
 date: 2026-07-16
 updated: 2026-07-16
-status: draft
+status: published
 category: problems
 tags:
   - Deployment

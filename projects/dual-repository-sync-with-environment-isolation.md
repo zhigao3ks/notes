@@ -2,7 +2,7 @@
 title: "两个长期分叉仓库如何安全同步：以测试仓与生产仓联调为例"
 date: 2026-07-16
 updated: 2026-07-16
-status: draft
+status: published
 category: projects
 tags:
   - Git

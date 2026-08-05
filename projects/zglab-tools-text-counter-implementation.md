@@ -2,7 +2,7 @@
 title: "Emoji 到底算几个字符：实现 Unicode 感知的文本统计器"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: projects
 tags:
   - Unicode

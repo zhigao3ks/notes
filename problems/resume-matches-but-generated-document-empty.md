@@ -2,7 +2,7 @@
 title: "匹配不少，为什么最终简历仍然是空的：一次多节点生成链路复盘"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: problems
 tags:
   - AI Agent

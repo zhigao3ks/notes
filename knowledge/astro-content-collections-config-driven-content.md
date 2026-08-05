@@ -2,7 +2,7 @@
 title: "用 Astro Content Collections、YAML 与 Zod 构建配置驱动网站"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: knowledge
 tags:
   - Astro

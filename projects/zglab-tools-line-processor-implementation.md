@@ -2,7 +2,7 @@
 title: "去重、自然排序与随机打乱：实现可预测的逐行文本处理流水线"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: projects
 tags:
   - Text Processing

@@ -2,7 +2,7 @@
 title: "同一句话为什么出现两遍：实时转写与最终转写的时间线对齐"
 date: 2026-07-23
 updated: 2026-07-23
-status: draft
+status: published
 category: knowledge
 tags:
   - 语音识别

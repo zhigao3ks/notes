@@ -2,7 +2,7 @@
 title: "把大模型生成限制在事实边界内：Evidence 驱动的内容生成与校验"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: knowledge
 tags:
   - LLM

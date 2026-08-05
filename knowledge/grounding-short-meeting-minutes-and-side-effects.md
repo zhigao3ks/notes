@@ -2,7 +2,7 @@
 title: "短会议不是不能生成纪要：如何同时控制幻觉与业务副作用"
 date: 2026-07-23
 updated: 2026-07-23
-status: draft
+status: published
 category: knowledge
 tags:
   - 大模型

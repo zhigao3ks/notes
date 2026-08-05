@@ -2,7 +2,7 @@
 title: "静态网站也需要工程化：备份发布、功能开关与动态接口边界"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: knowledge
 tags:
   - Static Site

@@ -2,7 +2,7 @@
 title: "从岗位 JD 到可追溯 PDF：ResumeTailor Agent 的可控工作流设计"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: projects
 tags:
   - AI Agent

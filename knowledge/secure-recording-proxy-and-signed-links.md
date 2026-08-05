@@ -2,7 +2,7 @@
 title: "不要把临时 OSS 地址直接交给前端：录音安全中转与签名链接设计"
 date: 2026-07-16
 updated: 2026-07-16
-status: draft
+status: published
 category: knowledge
 tags:
   - Object Storage

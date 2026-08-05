@@ -2,7 +2,7 @@
 title: "共享组件不是万能组件：工具平台中的受控复用设计"
 date: 2026-07-29
 updated: 2026-07-29
-status: draft
+status: published
 category: knowledge
 tags:
   - Frontend Architecture

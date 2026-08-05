@@ -2,7 +2,7 @@
 title: "单测和打包都通过，Spring 为什么还在启动时寻找无参构造器"
 date: 2026-07-24
 updated: 2026-07-24
-status: draft
+status: published
 category: problems
 tags:
   - Spring Boot

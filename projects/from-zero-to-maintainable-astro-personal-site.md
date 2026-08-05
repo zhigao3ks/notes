@@ -2,7 +2,7 @@
 title: "从一张静态页面到可维护的个人数字档案：Astro 个人网站从零搭建实践"
 date: 2026-07-17
 updated: 2026-07-17
-status: draft
+status: published
 category: projects
 tags:
   - Astro
